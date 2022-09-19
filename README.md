@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maggiewalsh&show_icons=true&locale=en&layout=compact" alt="maggiewalsh" /></p>
+<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=maggiewalsh&show_icons=true&locale=en&layout=compact](https://github.com/MaggieWalsh/MaggieWalsh/blob/main/banner.png)" alt="maggiewalsh" /></p>
 <h3 align="center">A passionate junior, full stack developer from Ireland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maggiewalsh&label=Profile%20views&color=0e75b6&style=flat" alt="maggiewalsh" /> </p>
