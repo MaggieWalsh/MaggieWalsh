@@ -1,13 +1,13 @@
 <p><img align="center" src="https://github.com/MaggieWalsh/MaggieWalsh/blob/main/banner.png" alt="maggiewalsh"/></p>
-<h1 align="center">A passionate junior, full stack developer from Ireland.</h1>
+<h1 align="center">A passionate full stack developer from Ireland.</h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=maggiewalsh&label=Profile%20views&color=0e75b6&style=flat" alt="maggiewalsh"/></p>
 
-- 👩🏼‍💻 I’m currently working on **my portfolio website.**
+- 👩🏼‍💻 I’m currently working on **my portfolio website**.
 
-- 🌱 I’m currently learning **react.**
+- 🌱 I’m currently learning **react**.
 
-- 🤖 Admin for **a coding group.**
+- 🤖 Admin for a coding group.
 
 - 📫 How to reach me **miggieholland@gmail.com**
 
