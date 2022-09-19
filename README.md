@@ -1,7 +1,7 @@
 <p><img align="center" src="https://github.com/MaggieWalsh/MaggieWalsh/blob/main/banner.png" alt="maggiewalsh"/></p>
 <h1 align="center">A passionate junior, full stack developer from Ireland.</h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=maggiewalsh&theme=material-palenight&label=Profile%20views&color=0e75b6&style=flat" alt="maggiewalsh"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=maggiewalsh&theme=material-palenight&label=Profile%20views&color=0e75b6&style=material-palenight" alt="maggiewalsh"/></p>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maggiewalsh&theme=material-palenight" alt="maggiewalsh"/></a></p>
 
