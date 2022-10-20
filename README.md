@@ -5,7 +5,7 @@
 
 - 👩🏼‍💻 I’m currently working on **my portfolio website**.
 
-- ☁️ I’m currently doing **Cloud Associate** with Deloitte.
+- ☁️ I’m currently on a **Cloud Associate** internship with Deloitte.
 
 - 🤖 Admin for a coding group.
 
