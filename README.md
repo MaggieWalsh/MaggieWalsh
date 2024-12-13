@@ -1,5 +1,4 @@
 <p><img align="center" src="https://github.com/MaggieWalsh/MaggieWalsh/blob/main/banner.png" alt="maggiewalsh"/></p>
-<h1 align="center">A budding Cloud Engineer from Ireland.</h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=maggiewalsh&label=Profile%20views&color=0e75b6&style=flat" alt="maggiewalsh"/></p>
 
