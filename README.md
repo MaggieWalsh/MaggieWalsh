@@ -3,10 +3,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=maggiewalsh&label=Profile%20views&color=0e75b6&style=flat" alt="maggiewalsh"/></p>
 
-- 👩🏼‍💻 I’m currently working on **my portfolio website**.
-
-- ☁️ I’m currently on a **Cloud Associate** internship with Deloitte.
-
 - 🤖 Admin for a coding group.
 
 - 📫 How to reach me **miggieholland@gmail.com**
